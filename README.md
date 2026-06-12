@@ -2,9 +2,7 @@
 
 ## Overview
 
-EmpowerHER is a women's safety mobile application prototype developed during a hackathon organized by the **Thoothukudi Police Department**. The application was designed to provide women with quick access to emergency assistance through features such as SOS alerts, live location sharing, emergency contact notifications, and safety resources.
-
-Our team focused on creating a user-friendly and accessible solution that can help users respond quickly during emergencies. The complete application prototype and user experience were designed using Figma.
+EmpowerHER is a women's safety mobile application prototype developed during a hackathon organized by the **Thoothukudi Police Department**. The application was designed to provide quick access to emergency assistance through SOS alerts, live location sharing, emergency contact notifications, and safety resources.
 
 ## Achievement
 
@@ -23,15 +21,12 @@ Our team focused on creating a user-friendly and accessible solution that can he
 * Figma
 * UI/UX Design
 * Prototyping
-* User Flow Design
 
 ## Figma Prototype
 
 https://www.figma.com/proto/2lYSQRa44xV4bKj5ErOASM
 
 ## Screenshots
-
-
 
 ### Home Screen
 
@@ -41,14 +36,6 @@ https://www.figma.com/proto/2lYSQRa44xV4bKj5ErOASM
 
 ![SOS](screenshots/sos.png)
 
-### Location Sharing
+### Emergency Contacts Screen
 
-![Location](screenshots/location.png)
-
-### Emergency Contacts
-
-![Contacts](screenshots/contacts.png)
-
-### Prototype Flow
-
-![Flow](screenshots/flow.png)
+![Emergency Contacts](screenshots/emergencycontacts.png)
