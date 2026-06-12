@@ -31,7 +31,7 @@ https://www.figma.com/proto/2lYSQRa44xV4bKj5ErOASM
 
 ## Screenshots
 
-(Add your exported Figma screens here)
+
 
 ### Home Screen
 
